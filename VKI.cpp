@@ -98,6 +98,8 @@ int main() {
 
 	cout << endl << endl;
 
+	cout << "Versiyonlama hata giderilme değiştirilme notu (sonradan silinecek)" << endl;
+
 	system("pause");
 
 	return 0;
