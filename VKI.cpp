@@ -13,7 +13,7 @@ int main() {
 	setlocale(LC_ALL, "Turkish");
 
 	int kilo = 0;
-	// boy yazýlýrken ./, karmaþasýndan kurtarmak istiyoruz ama küsüratlý gerekecek
+	// boy yazýlýrken ./, karmaþasýndan kurtarmak istiyoruz, cm olarak alacaðýz ama yazýlýrken ama küsüratlý gerekecek
 	float boy = 0, vki = 0, zayif_idealKilo = 0, kilolu_idealKilo = 0;
 
 
